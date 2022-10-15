@@ -5,7 +5,7 @@
 #### 멤버
 - [박동유]()
 - [김태한](https://github.com/gaeduck-0908)
-- [강주훈]()
+- [강주훈](https://github.com/rkdwngns)
 - [강주호]()
 - [박재우]()
 
