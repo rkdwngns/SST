@@ -6,7 +6,7 @@
 - [박동유]()
 - [김태한](https://github.com/gaeduck-0908)
 - [강주훈](https://github.com/rkdwngns)
-- [강주호]()
+- [강주호](https://github.com/wngh1212)
 - [박재우](https://github.com/2005Payne)
 
 # 프로젝트
