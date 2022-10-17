@@ -3,7 +3,7 @@
 ### 이 SST 에서는 보안 관련 프로젝트를 진행하며 각종 워게임 풀이가 올라옵니다.
 
 #### 멤버
-- [박동유]()
+- [박동유](https://github.com/dypar33)
 - [김태한](https://github.com/gaeduck-0908)
 - [강주훈](https://github.com/rkdwngns)
 - [강주호](https://github.com/wngh1212)
