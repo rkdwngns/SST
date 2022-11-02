@@ -10,7 +10,7 @@
 - [박재우](https://github.com/2005Payne)
 
 # 프로젝트
-- [WarKet](https://github.com/SST-Sungil-Security-Team/WarKet)
+- [SST_Crypto](https://github.com/SST-Sungil-Security-Team/SST_Crypto)
 
 # CTF, 대회
 - Wacon 2022
