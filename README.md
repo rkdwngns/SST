@@ -13,6 +13,6 @@
 - [SST_Crypto](https://github.com/SST-Sungil-Security-Team/SST_Crypto)
 
 # CTF, 대회
-- Wacon 2022 
+- Wacon 2022 - ?rd
 - 2022 JBU CTF - 23rd
-- 사이버가디언즈 CTF - ?rd
+- 사이버가디언즈 CTF - 7rd
